@@ -1,4 +1,4 @@
-# Music Store SQL Database Analysis
+# Music Store Database Analysis
 
 ## Overview
 
