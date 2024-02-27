@@ -20,7 +20,7 @@ The project aims to:
 
 A clear visual representation for understanding the database structure and relationships between tables:
 
-![Database Schema](link/to/database/schema)
+![Database Schema](https://github.com/CodeWithGauravRajput/SQL-Project/blob/main/music%20store%20data/schema_diagram.png?raw=true)
 
 ### Description
 
