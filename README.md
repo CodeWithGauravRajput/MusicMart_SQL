@@ -46,9 +46,7 @@ This diagram illustrates the relationships between the tables in the music store
   - Data Wrangling
   - Feature Engineering
   - Exploratory Data Analysis (EDA)
-- Results and Insights
-- Contributing
-- License
+
 
 ## About the Dataset
 
