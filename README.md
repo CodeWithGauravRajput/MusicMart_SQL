@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project delves into the Music_store_database to uncover valuable patterns and insights related to customer preferences, sales trends, and the music industry as a whole. By meticulously analyzing datasets within the database, including but not limited to:
+This project delves into the Music_store_database to uncover valuable patterns and insights related to customer preferences, sales trends, and the music industry as a whole.
 
 - Customers
 - Invoices
